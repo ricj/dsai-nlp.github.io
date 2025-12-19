@@ -36,9 +36,9 @@ When writing your report, please use one of [these style templates](https://www.
 
 The report should follow the format required for a **short paper** submission at a conferences organized by the ACL (that is: the typical way that NLP papers are published). You can read [here](https://acl-org.github.io/ACLPUB/formatting.html) about the formatting requirements, but in summary:
 - The main body of text must be **at most 4 pages**. This should include everything required to understand what you have done and the key conclusions.
-- After the main text, you must include two short sections called **Limitations** and **Ethics statement**. The Limitations section should briefly discuss issues you think could potentially be improved in your work. The Ethics statement should mention any ethics-related issue you think is relevant: this could include something about the data or potential misuse of the technology you have developed; alternatively, describe why you think there are no ethical issues in your work.
+- After the main text, you must include a short section called **Limitations**. The Limitations section should briefly discuss issues you think could potentially be improved in your work.
 - In addition, you may optionally include additional material in an **appendix**. Here, you can put additional details that are not essential for understanding the work, but that you want to include for completeness. (Examples of what to put here could be a detailed list of hyperparameter settings, example outputs, some extra evaluation, etc.)
-- The limitations, ethics statement, bibliography, and appendix do not count towards the limit of 4 pages.
+- The limitations, bibliography, and appendix do not count towards the limit of 4 pages.
 
 For examples of how such a text can look, take a look at some [short papers published at the ACL conference](https://aclanthology.org/events/acl-2024/#2024acl-short). In addition, there are some examples of project reports from previous instances of this course provided [in this directory](https://www.cse.chalmers.se/~richajo/dat450/project_examples/).
 
